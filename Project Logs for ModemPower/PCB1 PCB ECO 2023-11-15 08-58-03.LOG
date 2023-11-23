@@ -1,0 +1,13 @@
+Added Component: Designator=F1(SOT23)
+Add component (AddParameter): Name = "DeviceName"; Value = "_NTR2101P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "P-CHAN-3PIN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=4.5v Pin=F1-2
+Added Pin To Net: NetName=NetF1_3 Pin=F1-3
+Added Member To Class: ClassName=Sheet1 Member=Component F1 P-Channel MOSFET  -8.0 V, -3.7 A, Single P-Channel, SOT-23
+Added Member To Class: ClassName=Sheet1 Member=Component R20 100K
+Added Room: Name=Sheet1

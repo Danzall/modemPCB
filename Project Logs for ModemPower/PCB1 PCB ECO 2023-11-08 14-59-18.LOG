@@ -1,0 +1,16 @@
+Added Component: Designator=IC(SOIC127P600X100-9N)
+Added Pin To Net: NetName=NetC2_1 Pin=IC-2
+Added Pin To Net: NetName=GND Pin=IC-4
+Added Pin To Net: NetName=GND Pin=IC-7
+Added Pin To Net: NetName=NetC1_1 Pin=IC-8
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=IC-6
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetIC_5 Pin=IC-5
+Added Pin To Net: NetName=NetIC_5 Pin=R1-1
+Added Pin To Net: NetName=NetIC_5 Pin=R2-2
+Added Net: Name=NetIC_5
+Added Member To Class: ClassName=Sheet1 Member=Component IC BD9E302EFJ-E2

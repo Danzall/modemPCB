@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=DC_JACK1-GND
+Removed Pin From Net: NetName=NetD1_A Pin=DC_JACK1-PWR
+Removed Member From Class: ClassName=Sheet1 Member=DC_JACK1
+Added Component: Designator=J3(CUI_PJ-002BH)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PJ-002BH/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-002bh?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PJ-002BH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PJ-002BH/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Member To Class: ClassName=Sheet1 Member=Component J3 PJ-002BH

@@ -1,0 +1,384 @@
+Added Component: Designator=C1(C0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_100NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "NO_POLARITY"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CT3216)
+Add component (AddParameter): Name = "DeviceName"; Value = "_10UF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TANT-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CT3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "WITH_POLARITY"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_100NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "NO_POLARITY"; VariantName = "[No Variations]"
+Added Component: Designator=C4(PPS_H)
+Add component (AddParameter): Name = "DeviceName"; Value = "_10NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PPS_H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "NO_POLARITY"; VariantName = "[No Variations]"
+Added Component: Designator=C5(1210)
+Add component (AddParameter): Name = "DeviceName"; Value = "_4.7UF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "NO_POLARITY"; VariantName = "[No Variations]"
+Added Component: Designator=C6(L0402)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1.5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "L0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "NO_POLARITY"; VariantName = "[No Variations]"
+Added Component: Designator=C7(L0402)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1.5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-CAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "L0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "NO_POLARITY"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(SIL_6)
+Add component (AddParameter): Name = "DeviceName"; Value = "SIL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "6-WAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIL_6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CON_6_WAY"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(SIL6_2MM)
+Add component (AddParameter): Name = "DeviceName"; Value = "_THRU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "6-WAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIL6_2MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CON_6_WAY"; VariantName = "[No Variations]"
+Added Component: Designator=CN3(SIL_3)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SIL3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "3-WAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIL_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CON_3_WAY"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMB)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SS24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "DIODE-SHOTKY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SHOTKY"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMB)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SS24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "DIODE-SHOTKY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SHOTKY"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMB)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SS24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "DIODE-SHOTKY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SHOTKY"; VariantName = "[No Variations]"
+Added Component: Designator=DC_JACK1(MJ-179PH)
+Add component (AddParameter): Name = "DeviceName"; Value = "_THRU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "DC_JACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MJ-179PH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "DC_JACK"; VariantName = "[No Variations]"
+Added Component: Designator=DIP1(DIP_SW6)
+Added Component: Designator=GSM1(SIM800L)
+Added Component: Designator=IC1(SOIC127P600X100-9N)
+Added Component: Designator=IC2(SOP63P599X175-20N)
+Added Component: Designator=IC3(SOIC_8)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "LM393"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "LM393"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SOT23-5L)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TLV70033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23-5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TLV70033"; VariantName = "[No Variations]"
+Added Component: Designator=J1(ZX62B5PA33)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ZX62-B-5PA(33)/Hirose/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZX62-B-5PA(33)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZX62-B-5PA(33)/Hirose/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SOT23-5L)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP73831T-2ACI/OT/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP73831T-2ACI/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP73831T-2ACI/OT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP73831T-2ACI/OT/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(74404064047)
+Added Component: Designator=LED1(L0805)
+Add component (AddParameter): Name = "DeviceName"; Value = "_ORANGE_SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "L0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=LN1(LINK_SMD)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "LINK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LINK_SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "LINK"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_10E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_10E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R1206)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1206_0R27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(TACTILE_SMD)
+Add component (AddParameter): Name = "DeviceName"; Value = "M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "PUSHBUTTON_NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TACTILE_SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SWITCH_NO_PUSH"; VariantName = "[No Variations]"
+Added Component: Designator=Y(XTAL_ECS-200-20-1X)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ECS Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECS-.320-12.5-13X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Cylindrical Can Radial  ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-.320-12.5-13X/ECS%20Inc./view-part/561753/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=CN2-1
+Added Pin To Net: NetName=3V3 Pin=DIP1-1
+Added Pin To Net: NetName=3V3 Pin=IC4-5
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=CN1-1
+Added Pin To Net: NetName=5V Pin=D2-C
+Added Pin To Net: NetName=5V Pin=D3-C
+Added Pin To Net: NetName=5V Pin=GSM1-2
+Added Pin To Net: NetName=5V Pin=IC4-1
+Added Pin To Net: NetName=5V Pin=IC4-3
+Added Pin To Net: NetName=5V Pin=J2-4
+Added Pin To Net: NetName=5V Pin=LED1-A
+Added Pin To Net: NetName=5V Pin=LN1-2
+Added Net: Name=5V
+Added Pin To Net: NetName=BOOT0 Pin=CN2-2
+Added Pin To Net: NetName=BOOT0 Pin=DIP1-6
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=CH340_RX Pin=CN1-3
+Added Pin To Net: NetName=CH340_RX Pin=CN2-4
+Added Pin To Net: NetName=CH340_RX Pin=GSM1-5
+Added Pin To Net: NetName=CH340_RX Pin=IC2-4
+Added Net: Name=CH340_RX
+Added Pin To Net: NetName=CH340_TX Pin=CN1-2
+Added Pin To Net: NetName=CH340_TX Pin=CN2-3
+Added Pin To Net: NetName=CH340_TX Pin=GSM1-4
+Added Pin To Net: NetName=CH340_TX Pin=IC2-3
+Added Net: Name=CH340_TX
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=CN1-6
+Added Pin To Net: NetName=GND Pin=CN2-6
+Added Pin To Net: NetName=GND Pin=CN3-3
+Added Pin To Net: NetName=GND Pin=DC_JACK1-GND
+Added Pin To Net: NetName=GND Pin=GSM1-6
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=GND Pin=IC4-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-8
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-1
+Added Pin To Net: NetName=NetC2_1 Pin=D1-C
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=IC1-6
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R3-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=D2-A
+Added Pin To Net: NetName=NetC5_1 Pin=L1-2
+Added Pin To Net: NetName=NetC5_1 Pin=R1-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=IC2-10
+Added Pin To Net: NetName=NetC6_1 Pin=Y-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=IC2-9
+Added Pin To Net: NetName=NetC7_1 Pin=Y-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Pin To Net: NetName=NetCN3_1 Pin=J2-3
+Added Pin To Net: NetName=NetCN3_1 Pin=LN1-1
+Added Net: Name=NetCN3_1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=DC_JACK1-PWR
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=J1-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=R1-1
+Added Pin To Net: NetName=NetIC1_5 Pin=R2-2
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC3_5 Pin=IC3-5
+Added Pin To Net: NetName=NetIC3_5 Pin=R6-2
+Added Pin To Net: NetName=NetIC3_5 Pin=R10-2
+Added Net: Name=NetIC3_5
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetIC3_6 Pin=R7-2
+Added Pin To Net: NetName=NetIC3_6 Pin=R9-1
+Added Net: Name=NetIC3_6
+Added Pin To Net: NetName=NetIC3_7 Pin=IC3-7
+Added Pin To Net: NetName=NetIC3_7 Pin=R9-2
+Added Net: Name=NetIC3_7
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R4-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R5-2
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R11-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=R12-2
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetLED1_C Pin=LED1-C
+Added Pin To Net: NetName=NetLED1_C Pin=R11-2
+Added Net: Name=NetLED1_C
+Added Pin To Net: NetName=RESET Pin=CN2-5
+Added Pin To Net: NetName=RESET Pin=SW1-3
+Added Net: Name=RESET
+Added Pin To Net: NetName=USBD+ Pin=IC2-6
+Added Pin To Net: NetName=USBD+ Pin=R5-1
+Added Net: Name=USBD+
+Added Pin To Net: NetName=USBD- Pin=IC2-7
+Added Pin To Net: NetName=USBD- Pin=R4-2
+Added Net: Name=USBD-
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

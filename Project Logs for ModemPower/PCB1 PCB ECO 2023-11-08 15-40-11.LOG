@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=5V Pin=CN1-1
+Removed Pin From Net: NetName=CH340_TX Pin=CN1-2
+Removed Pin From Net: NetName=CH340_RX Pin=CN1-3
+Removed Pin From Net: NetName=GND Pin=CN1-6
+Removed Pin From Net: NetName=5V Pin=GSM1-2
+Removed Member From Class: ClassName=Sheet1 Member=CN1
+Added Component: Designator=F?(SOT23)
+Add component (AddParameter): Name = "CELLSTOPCODE"; Value = "CELLSTOPCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "NTR4170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "fets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = "LOCATION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "Arrow Altech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIERCODE"; Value = "SUPPLIERCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "N-CHAN-3PIN"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT_23
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "DeviceName"; Value = "_1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Cellstop_Parts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "CELLSTOPCODE"; Value = "CELLSTOPCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = "_330E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = "LOCATION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "Arrow Altech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIERCODE"; Value = "SUPPLIERCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "CELLSTOPCODE"; Value = "CELLSTOPCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = "_100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = "LOCATION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "Arrow Altech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIERCODE"; Value = "SUPPLIERCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "CELLSTOPCODE"; Value = "CELLSTOPCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = "_10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CHIP-RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = "LOCATION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "Arrow Altech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIERCODE"; Value = "SUPPLIERCODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=F?-2
+Added Pin To Net: NetName=GND Pin=F?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-2
+Change Net Name : Old Net Name=5V New Net Name=4.5v
+Added Pin To Net: NetName=GSM_PWR Pin=GSM1-2
+Added Net: Name=GSM_PWR
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=R?-2
+Added Pin To Net: NetName=NetF?_1 Pin=R?-2
+Added Net: Name=NetF?_1
+Add Net: Net with name "NetF?_1" already exists
+Added Pin To Net: NetName=NetF?_3 Pin=F?-3
+Added Net: Name=NetF?_3
+Add Net: Net with name "NetF?_3" already exists
+Added Pin To Net: NetName=NetIC2_16 Pin=IC2-16
+Added Pin To Net: NetName=NetIC2_16 Pin=R?-1
+Added Net: Name=NetIC2_16
+Added Member To Class: ClassName=Sheet1 Member=Component F? NTR4170N
+Added Member To Class: ClassName=Sheet1 Member=Component F? NTR2101P
+Added Member To Class: ClassName=Sheet1 Member=Component R? Chip Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R? 330E
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Room: Name=Sheet1
